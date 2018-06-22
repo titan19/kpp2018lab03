@@ -7,4 +7,4 @@
 Запускаємо index.html, вибираємо відповідну точку на карті (з даної точки буде отриманно АРІ з потрібними данними)
 
 # Скріншоти
-![Рис.1 - Скріншот](https://github.com/natalisabo/kkp_lab3-/blob/master/screen.png)
+![Рис.1 - Скріншот](https://github.com/titan19/kpp2018lab03/blob/master/screen.png)
